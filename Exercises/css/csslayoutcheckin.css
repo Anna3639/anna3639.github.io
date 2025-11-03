@@ -43,7 +43,7 @@ h2{
     align-items: center;
 }
 .threemiddle{
-    background-image: url("../Images/franco-antonio-giovanella-Cm6GGegbcoU-unsplash.jpg");
+    background-image: url("../../Images/franco-antonio-giovanella-Cm6GGegbcoU-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     grid-area: threemiddle;
@@ -68,5 +68,6 @@ img {
         "twoleft twoleft twoleft tworight tworight tworight"
         "threeleft threeleft threemiddle threemiddle threeright threeright";
 }
+
 
 
