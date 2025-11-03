@@ -29,7 +29,7 @@ h2{
     grid-area: twoleft;
 }
 .tworight{
-    background-image: url(Images/lars-blankers-B0s3Xndk6tw-unsplash.jpg);
+    background-image: url("../../Images/lars-blankers-B0s3Xndk6tw-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     grid-area: tworight;
@@ -43,7 +43,7 @@ h2{
     align-items: center;
 }
 .threemiddle{
-    background-image: url(Images/franco-antonio-giovanella-Cm6GGegbcoU-unsplash.jpg);
+    background-image: url("../Images/franco-antonio-giovanella-Cm6GGegbcoU-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     grid-area: threemiddle;
@@ -68,4 +68,5 @@ img {
         "twoleft twoleft twoleft tworight tworight tworight"
         "threeleft threeleft threemiddle threemiddle threeright threeright";
 }
+
 
